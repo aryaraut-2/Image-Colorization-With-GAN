@@ -25,7 +25,7 @@ A Deep Learning project that uses **Generative Adversarial Networks (GANs)** to 
 
 ## Results
 
-The model generates realistic colorized images with preserved details and semantic consistency. Below is a comparison of grayscale inputs, generated colorizations, and ground truth images.
+The model generates realistic colorized images with preserved details and semantic consistency. The results shown below are from the initial training epochs; color quality and realism improve progressively as training continues. A comparison of grayscale inputs, generated colorizations, and ground truth images is presented below.
 
 ![Results](results_op.png)
 
