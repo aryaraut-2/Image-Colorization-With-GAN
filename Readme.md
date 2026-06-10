@@ -24,7 +24,10 @@ A Deep Learning project that uses **Generative Adversarial Networks (GANs)** to 
 - Output: RGB Image (120×120×3)
 
 ## Results
-The model generates realistic and context-aware colorized images while preserving structural details and textures.
+
+The model generates realistic colorized images with preserved details and semantic consistency. Below is a comparison of grayscale inputs, generated colorizations, and ground truth images.
+
+![Results](results_op.png)
 
 ## Conclusion
 This project demonstrates the effectiveness of GANs for automatic image colorization, producing visually appealing and semantically meaningful results from grayscale inputs.
